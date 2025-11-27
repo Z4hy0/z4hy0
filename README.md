@@ -2,8 +2,7 @@
 
 ###### Sobre Francisco Nailton
 
-Sempre buscando novos desafios e experiências. Programador front-end iniciante. 
-HTML, CSS e JavaScript.
+Sempre buscando novos desafios e experiências. Formado em Análise e Desenvolvimento de Sistemas, com conhecimentos em Python, SQL, Excel, Power BI e CRM. 
 
 ###
 
