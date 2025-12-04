@@ -11,14 +11,6 @@ Sempre buscando novos desafios e experiências. Formado em Análise e Desenvolvi
 <a href="https://github.com/z4hy0">
 <img src="https://github-readme-stats.vercel.app/api?username=z4hy0&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
 
-</div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4hy0&layout=compact&langs_count=6&theme=shadow_red"/>
-<div style="display: inline_block"><br>
-  
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
 ### Contatos
 <div>
