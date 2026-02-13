@@ -7,10 +7,6 @@ Sempre buscando novos desafios e experiências. Formado em Análise e Desenvolvi
 ###
 
 
- <div>
-<a href="https://github.com/z4hy0">
-<img src="https://github-readme-stats.vercel.app/api?username=z4hy0&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
-
 
 ### Contatos
 <div>
