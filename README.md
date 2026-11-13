@@ -2,7 +2,8 @@
 
 ###### Sobre Francisco Nailton
 
-Sempre buscando novos desafios e experiências. Formado em Análise e Desenvolvimento de Sistemas, com conhecimentos em Python, SQL, Excel, Power BI e CRM. Atualmente cursando Banco de Dados.
+Sempre buscando novos desafios e experiências. Formado em Análise e Desenvolvimento de Sistemas, com conhecimentos em Python, SQL, Excel, Power BI e CRM. Atualmente cursando Banco de Dados. 
+Estagiário de Análise de Dados na área de Direitos Humanos da Natura Cosméticos.
 
 ###
 
